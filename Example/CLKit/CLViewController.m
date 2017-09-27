@@ -11,6 +11,8 @@
 
 @interface CLViewController ()
 
+@property (weak, nonatomic) IBOutlet UIImageView *imgView;
+
 @end
 
 @implementation CLViewController
@@ -21,6 +23,8 @@
 	// Do any additional setup after loading the view, typically from a nib.
     NSLogHelper *print = [[NSLogHelper alloc] init];
     [print printTest];
+    
+    _imgView.image = [UIImage imageNamed:@"1-1"];
 }
 
 - (void)didReceiveMemoryWarning

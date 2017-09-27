@@ -32,9 +32,9 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'CLKit/Classes/**/*'
   
-  # s.resource_bundles = {
-  #  'CLKit' => ['CLKit/Assets/*.png']
-  # }
+  s.resource_bundles = {
+   'CLKit' => ['CLKit/Assets/*.png']
+  }
 
   s.public_header_files = 'CLKit/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'

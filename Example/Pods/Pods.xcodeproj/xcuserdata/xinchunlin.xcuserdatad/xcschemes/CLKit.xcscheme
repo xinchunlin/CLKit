@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '075F66522185F01709ABBE8079ABDE18'
+               BlueprintIdentifier = '553AA887027CD2D3969017E45057D72F'
                BlueprintName = 'CLKit'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'CLKit.framework'>
