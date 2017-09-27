@@ -1,0 +1,23 @@
+{
+  "name": "CLKit",
+  "version": "0.1.0",
+  "summary": "A short description of CLKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xinchunlin/CLKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xinchunlin": "xinchunlin@readyidu.com"
+  },
+  "source": {
+    "git": "https://github.com/xinchunlin/CLKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CLKit/Classes/**/*",
+  "public_header_files": "CLKit/Classes/**/*.h"
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CLKit_Example' do
+  pod 'CLKit', :path => '../'
+
+  target 'CLKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

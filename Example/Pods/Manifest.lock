@@ -1,0 +1,16 @@
+PODS:
+  - CLKit (0.1.0)
+
+DEPENDENCIES:
+  - CLKit (from `../`)
+
+EXTERNAL SOURCES:
+  CLKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CLKit: 43c7dae150f61b288bbf5abdcb0013fa7ca83c26
+
+PODFILE CHECKSUM: 4e348cb48f94783a4d86abdf251b0e692e3a6813
+
+COCOAPODS: 1.2.1
