@@ -1,5 +1,5 @@
 PODS:
-  - CLKit (0.1.0)
+  - CLKit (0.1.1)
 
 DEPENDENCIES:
   - CLKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  CLKit: a8c5fd1df978b17354bebca99073a90250b87198
+  CLKit: bad31226688db99bbf2185cd3750abbf6628129d
 
 PODFILE CHECKSUM: 4e348cb48f94783a4d86abdf251b0e692e3a6813
 
